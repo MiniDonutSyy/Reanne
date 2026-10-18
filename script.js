@@ -35,7 +35,7 @@ titleElement.insertAdjacentHTML(
   "afterend",
   `
   <p class="message" style="font-size: 28px;">
-    Hi my baby, here is a flower for you for being a good girl 🌸❤️
+    Hi, my baby! Here’s a flower for you for being such a good girl. 🌸❤️
 </p>
 <a href="flower.html" class="flower-btn">Flower for you 🌸</a>
   `
